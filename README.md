@@ -12,4 +12,4 @@
 ##  Connect with Me
 
 📩 Email: kg20060220@gmail.com  
-🔗 LinkedIn: linkedin.com/in/krish-gupta-3660b9299/
+🔗 LinkedIn: https://linkedIn.com/in/krish-gupta3660b9299/
