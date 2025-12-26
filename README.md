@@ -1,16 +1,15 @@
-## Hi there 👋
+##  Hi, I'm Krish Gupta
 
-<!--
-**kKrishGupta/kKrishGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech in Computer Scienece and Engineering (AI-ML)27    
+💻 Backend Developer | Exploring DevOps  
+☕  Strong foundation in Core Java  
+🚀 Passionate about exploring new technologies and building real-world projects  
+⚡  Goal: Grow as a skilled Software Engineer and work on impactful systems  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,java,git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Connect with Me
+
+📩 Email: kg20060220@gmail.com  
+🔗 LinkedIn: linkedin.com/in/krish-gupta-3660b9299/
