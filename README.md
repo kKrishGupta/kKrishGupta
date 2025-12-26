@@ -1,6 +1,6 @@
 ##  Hi, I'm Krish Gupta
 
-🎓 BTech in Computer Scienece and Engineering (AI-ML)27    
+🎓 BTech in CSE (AI-ML) '27    
 💻 Backend Developer | Exploring DevOps  
 ☕  Strong foundation in Core Java  
 🚀 Passionate about exploring new technologies and building real-world projects  
